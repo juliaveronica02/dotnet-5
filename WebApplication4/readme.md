@@ -1,0 +1,2 @@
+﻿1. https://jasonwatmore.com/net-7-dapper-mysql-crud-api-tutorial-in-aspnet-core#testing-postman
+2. https://medium.com/@michaszala/1-authentication-guide-net-6-0-simple-login-and-register-user-api-5c3c275311a6 (lgi dicoba).
